@@ -2,7 +2,7 @@
 targetScope = 'subscription'
 
 // Parameters
-param location string = 'westeurope'
+param location string = 'southeastasia'
 param resourceGroupName string = 'rg-uptime-kuma'
 param appServicePlanName string = 'asp-uptime-kuma'
 param appServicePlanSku string = 'B1'
